@@ -206,7 +206,7 @@ Inputs:
 
 ## 📄 Citation
 
-If you use this code, please cite:
+The manuscript is now:
 
 > *Unequal Access to Public Health Facilities across Informal Settlements in the Global South*
 
@@ -214,6 +214,4 @@ If you use this code, please cite:
 
 ## ✉️ Contact
 
-**Mingyu Jiang**  
-Research Assistant  
-Geo‑informatics / Urban Accessibility
+jiangmy.pablo@gmail.com 
