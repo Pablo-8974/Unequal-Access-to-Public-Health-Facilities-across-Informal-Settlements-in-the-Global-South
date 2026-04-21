@@ -11,6 +11,7 @@ The code supports the full analytical pipeline, including population raster prep
 ## 📂 Project Structure Overview
 
 The workflow is organized into **11 main methodological steps**, consistent with the paper.
+The origin files in Pic dictionary is avaliable at https://doi.org/10.5281/zenodo.19676385, please check go to the website to get these files.
 
 ---
 
